@@ -1,0 +1,18 @@
+body {
+    @apply bg-gray-100 text-gray-900;
+  }
+  
+  a {
+    @apply text-blue-500 no-underline;
+  }
+  
+  button {
+    @apply bg-blue-500 text-white py-2 px-4 rounded;
+  }
+  
+  input, textarea {
+    @apply p-2 border rounded;
+  }
+  
+  /* Additional global styles */
+  
